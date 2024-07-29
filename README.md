@@ -14,8 +14,19 @@ Installation
 To run this project, you need to install the required libraries. You can do this by running the following command:
 pip install -r requirements.txt
 
+
+
+
 Project Structure
 ![image](https://github.com/user-attachments/assets/fd24ef61-0b6b-47c1-b497-f3ccc74ce0d1)
+
+
+
+
+
+
+
+
 Data
 The data used in this project is from the State Farm Distracted Driver Detection competition on Kaggle. The dataset includes images of drivers in various states of distraction.
 
