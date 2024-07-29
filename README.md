@@ -1,4 +1,6 @@
 Distracted Driver Detection
+
+
 This project aims to detect distracted driving behavior from images using machine learning techniques. The dataset used for this project is the State Farm Distracted Driver Detection dataset.
 
 Table of Contents
@@ -17,8 +19,14 @@ pip install -r requirements.txt
 
 
 
+
+
 Project Structure
+
 ![image](https://github.com/user-attachments/assets/fd24ef61-0b6b-47c1-b497-f3ccc74ce0d1)
+
+
+
 
 
 
